@@ -1,7 +1,6 @@
 <h1 align="center" id="title">Wiresense</h1>
 
-Quickly make the most out of your sensors!  
-With wiresense you can visualize the live data from your sensors without having a pc directly connected to them!  
+Wiresense lets you quickly visualize live data from any sensor without a cable connection required. Access your sensor data remotely, download data files, and use ready-to-go libraries. Get started easily with our hosted frontend and see your sensor insights in real time. 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=repos&period=past_12_months&owner_id=171203918" target="_blank" style="display: block" align="center">
     <picture>
